@@ -1,0 +1,32 @@
+{
+  "pictures": [
+    {
+      "alt": "Daily essentials",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Pets/AugART22/Cons-Hero/Revised/D52812640_Unrec_Tall_PC_Hero_R_UPTO_3000x1200._CB630788403_.jpg"
+    },
+    {
+      "alt": "TVs and appliances",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/lg_redmi_PC_Hero_3000x1200._CB630982071_.jpg"
+    },
+    {
+      "alt": "Mobiles",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/Events/img22/AugART/T2/hero/Aug_ART_PC_LIVE_Now_REC._CB630839055_.jpg"
+    },
+    {
+      "alt": "Electronics",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wearables/Freedom/Festival/GW/Live/Rec/PC_Hero_3000x1200_Smartwatch_Rec._CB631181388_.jpg"
+    },
+    {
+      "alt": "Prime day",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/soumya/OHL/HnK/AugustART/Hero/Revised/Rec/HK_3000x1200-REC-2._CB631194574_.jpg"
+    },
+    {
+      "alt": "Spring summer",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Beauty/AugART/GW/ATF/Revised/Rec_PC_Hero_3000x1200fdfd._CB631117907_.jpg"
+    },
+    {
+      "alt": "Great Freedom Festival",
+      "src": "https://images-eu.ssl-images-amazon.com/images/G/31/Events/img22/AugART/T2/hero/Aug_ART_PC_LIVE_Now_REC._CB630839055_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Fresh": [
+    "Fruits & vegetables",
+    "Breakfast Food",
+    "Dairy Products",
+    "Meat & Seafood",
+    "Cleaning & Household",
+    "Hygiene & Personal Care",
+    "Bath & Body",
+    "Beauty & Makeup",
+    "Baby Care",
+    "Supersavers"
+  ],
+  "Trending": ["Best Sellers", "New Releases", "Movers and Shakers"],
+  "Digital Content And Devices": [
+    "Echo & Alexa",
+    "Fire TV",
+    "Kindle E-Readers & eBooks",
+    "Audible AudioBooks",
+    "Amazon Prime Video",
+    "Amazon Prime Music"
+  ],
+  "Shop By Department": [
+    "Mobiles, Computers",
+    "TV, Appliances, Electronics",
+    "Men's Fashion",
+    "Women's Fashion"
+  ],
+  "Programs & Features": [
+    "Gift Cards & Mobile Recharges",
+    "Flight Tickets",
+    "#FoundOnAmazon",
+    "Clearance store"
+  ],
+  "Help & Settings": ["Your Account", "Customer Service", "Sign Out"]
+}
